@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.858814fe.chunk.css",
-    "main.js": "/static/js/main.e1f31358.chunk.js",
-    "main.js.map": "/static/js/main.e1f31358.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
-    "static/js/2.2f5ef2c2.chunk.js": "/static/js/2.2f5ef2c2.chunk.js",
-    "static/js/2.2f5ef2c2.chunk.js.map": "/static/js/2.2f5ef2c2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f9c8908b0c11d2e8c6aa713281a7e562.js": "/precache-manifest.f9c8908b0c11d2e8c6aa713281a7e562.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.858814fe.chunk.css.map": "/static/css/main.858814fe.chunk.css.map",
-    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
-    "static/media/carPic.jpg": "/static/media/carPic.fc2ff29d.jpg"
+    "main.css": "/benjaminsanders.me/static/css/main.858814fe.chunk.css",
+    "main.js": "/benjaminsanders.me/static/js/main.e1f31358.chunk.js",
+    "main.js.map": "/benjaminsanders.me/static/js/main.e1f31358.chunk.js.map",
+    "runtime-main.js": "/benjaminsanders.me/static/js/runtime-main.fbd52da7.js",
+    "runtime-main.js.map": "/benjaminsanders.me/static/js/runtime-main.fbd52da7.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "/benjaminsanders.me/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "/benjaminsanders.me/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "/benjaminsanders.me/index.html",
+    "precache-manifest.706ad62c642dd1d977182fb0d6e7b31c.js": "/benjaminsanders.me/precache-manifest.706ad62c642dd1d977182fb0d6e7b31c.js",
+    "service-worker.js": "/benjaminsanders.me/service-worker.js",
+    "static/css/main.858814fe.chunk.css.map": "/benjaminsanders.me/static/css/main.858814fe.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/benjaminsanders.me/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/carPic.jpg": "/benjaminsanders.me/static/media/carPic.fc2ff29d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c0ae09a.js",
+    "static/js/runtime-main.fbd52da7.js",
     "static/js/2.2f5ef2c2.chunk.js",
     "static/css/main.858814fe.chunk.css",
     "static/js/main.e1f31358.chunk.js"
