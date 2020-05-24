@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c7a8c9c.chunk.css",
-    "main.js": "/static/js/main.b80464e7.chunk.js",
-    "main.js.map": "/static/js/main.b80464e7.chunk.js.map",
+    "main.css": "/static/css/main.77ad9622.chunk.css",
+    "main.js": "/static/js/main.a3a4a841.chunk.js",
+    "main.js.map": "/static/js/main.a3a4a841.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
     "static/js/2.27bed649.chunk.js": "/static/js/2.27bed649.chunk.js",
     "static/js/2.27bed649.chunk.js.map": "/static/js/2.27bed649.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c748cc87da9078310d18ef37ca1a6a47.js": "/precache-manifest.c748cc87da9078310d18ef37ca1a6a47.js",
+    "precache-manifest.9a0d9d097a7170b177e22ad68b4a8303.js": "/precache-manifest.9a0d9d097a7170b177e22ad68b4a8303.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3c7a8c9c.chunk.css.map": "/static/css/main.3c7a8c9c.chunk.css.map",
+    "static/css/main.77ad9622.chunk.css.map": "/static/css/main.77ad9622.chunk.css.map",
     "static/js/2.27bed649.chunk.js.LICENSE.txt": "/static/js/2.27bed649.chunk.js.LICENSE.txt",
     "static/media/carPic.jpg": "/static/media/carPic.fc2ff29d.jpg",
     "static/media/fidLogo.png": "/static/media/fidLogo.fbc78049.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c0ae09a.js",
     "static/js/2.27bed649.chunk.js",
-    "static/css/main.3c7a8c9c.chunk.css",
-    "static/js/main.b80464e7.chunk.js"
+    "static/css/main.77ad9622.chunk.css",
+    "static/js/main.a3a4a841.chunk.js"
   ]
 }
